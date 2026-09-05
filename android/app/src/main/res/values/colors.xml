@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand dark navy, matching the Electron desktop app's window
+         background and the icon/splash background generated from the
+         official logo. -->
+    <color name="colorPrimary">#0B1220</color>
+    <color name="colorPrimaryDark">#060A12</color>
+    <!-- Brand green, sampled directly from the official UrbanWave logo. -->
+    <color name="colorAccent">#086F46</color>
+</resources>

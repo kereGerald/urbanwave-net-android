@@ -1,0 +1,12 @@
+{
+  "appId": "com.urbanwave.net",
+  "appName": "UrbanWave Net",
+  "webDir": "www",
+  "server": {
+    "url": "https://urbanwave-billingsystem.onrender.com",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
